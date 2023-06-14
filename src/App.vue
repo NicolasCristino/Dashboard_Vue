@@ -105,7 +105,7 @@
                 </td>
               </tr>
               <tr>
-                <td>Gustavo</td>
+                <td>Gustav</td>
                 <td>gus.delcoli@gmail.com</td>
                 <td>Desenvolvedor</td>
                 <td>
